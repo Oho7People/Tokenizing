@@ -1,0 +1,3 @@
+/Users/bogdangeza/Desktop/Tokenize/build/CMakeFiles/calc.dir
+/Users/bogdangeza/Desktop/Tokenize/build/CMakeFiles/edit_cache.dir
+/Users/bogdangeza/Desktop/Tokenize/build/CMakeFiles/rebuild_cache.dir
