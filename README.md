@@ -21,6 +21,7 @@ Tokenize/
 │   └── main.cpp         # CLI entry point
 └── include/
     └── *.hpp            # public headers
+```
 
 ## Build & Run
 1. **Prerequisite:** any C++20-capable compiler (clang++ / g++).
